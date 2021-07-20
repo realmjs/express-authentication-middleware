@@ -1,0 +1,28 @@
+{
+  "name": "@realmjs/express-authentication-middleware",
+  "version": "1.0.0",
+  "description": "Authentication middleware compatible with express-api-builder",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realmjs/express-authentication-middleware.git"
+  },
+  "author": "Duong Nguyen (duongtdn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realmjs/express-authentication-middleware/issues"
+  },
+  "homepage": "https://github.com/realmjs/express-authentication-middleware#readme",
+  "peerDependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "core-js": "^3.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "jest": "^27.0.4",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
