@@ -20,9 +20,9 @@
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
-    "core-js": "^3.14.0",
-    "jsonwebtoken": "^8.5.1",
+    "core-js": "^3.16.2",
     "jest": "^27.0.4",
-    "regenerator-runtime": "^0.13.7"
+    "jsonwebtoken": "^8.5.1",
+    "regenerator-runtime": "^0.13.9"
   }
 }
