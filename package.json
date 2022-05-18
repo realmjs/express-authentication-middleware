@@ -1,6 +1,6 @@
 {
   "name": "@realmjs/express-authentication-middleware",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Authentication middleware compatible with express-api-builder",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/realmjs/express-authentication-middleware/issues"
   },
   "homepage": "https://github.com/realmjs/express-authentication-middleware#readme",
-  "peerDependencies": {
+  "dependencies": {
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
